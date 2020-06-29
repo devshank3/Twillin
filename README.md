@@ -1,8 +1,14 @@
 # Twillin
+Stay tuned for updates !!!
 
-Stay Tuned for updates !!
+Source code will be updated after the completion
 
-## Preview 
+## Head mounted Rig with Acer WMR / Ultraleap (leap motion)/ Realsense
+<p align="center">
+ <img src="readme_dat/twil.jpg" width="580" />
+</p>
+
+## Demo
 
 
 
